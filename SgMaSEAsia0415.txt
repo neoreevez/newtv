@@ -1,0 +1,708 @@
+Channel NewsAsia-SG,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
+iNews-Indo,https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
+B1 News-Indo,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+Sky News-Aus,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+ABC News-Aus,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+CGTN China,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Spain,http://livees.cgtn.com/1000e/prog_index.m3u8
+CNC News,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+Arirang-Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KCTV-Korea,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+CBC News-Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+DW News-Germany,https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+DW News-Germany,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+Russia Today,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+Sky News-UK,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+BLOOMBERG TV-US,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+Newsmax-US,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+Newsmax-US,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBS News-US,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+CBS News-US,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+CBS News-US,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+CNN-US,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+FOX News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+Cheddar News,http://live.chdrstatic.com/cbn/primary/3.m3u8
+Global News-US,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+Wairarapa-TV NZ,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+Telesur Venezuela,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+Lesson-19,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/6/y/h6y5pl9z_z70l4o26_h264_1244K.mp4/chunklist.m3u8
+Lesson-20,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/0/l/h0l3w9f3_rv0jof60_h264_1244K.mp4/chunklist.m3u8
+Lesson-21,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/8/e/y8e1pgmb_i9iakzd0_h264_1244K.mp4/chunklist.m3u8
+Lesson-22,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/2/3/z236j8dv_g99e7f6d_h264_1244K.mp4/chunklist.m3u8
+Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/w/8/rw85ga6e_i9q4ne3o_h264_1244K.mp4/chunklist.m3u8
+Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8
+AEC-5(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+AWANI,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+OKEY,https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+Prima,http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+Ria,http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+Supersport1d,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+Supersport3d,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+SPORTTV_1,https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+SPORTTV_2,https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+SPORTTV_3,https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+SPORTTV_4,https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+SPORTTV_5,https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+ARENA,http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI
+Ch-1,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+Ch-2,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+Ch-3,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+Ch-4,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+Ch-5,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+Ch-6,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+Ch-7,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+Ch-8,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+Ch-9,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+Ch-10,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+Ch-11,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+Ch-12,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+Ch-13,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+Ch-14,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+Ch-15,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+Ch-16,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+Ch-17,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+Ch-18,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+Ch-19,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+Ch-20,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+Ch-21,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+Ch-22,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+Ch-23,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+Ch-24,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+Ch-25,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+Ch-26,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+Ch-27,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+Ch-28,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+Ch-29,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+Ch-30,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+Ch-31,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+Ch-32,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+Ch-33,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+Ch-34,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+Ch-35,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+Ch-36,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+Ch-37,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+Ch-38,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+Ch-39,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+Ch-40,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+Ch-41,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+Ch-42,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
+Ch-43,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
+Ch-44,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
+Ch-45,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
+Ch-46,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
+Ch-47,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
+Ch-48,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
+Ch-49,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
+Ch-50,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8
+Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8
+Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8
+Lesson-4,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/u/4/fu47k67j_md31l8n9_h264_1244K.mp4/chunklist.m3u8
+Lesson-5,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/3/y/e3yoa45u_chup166d_h264_1244K.mp4/chunklist.m3u8
+Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/4/5/o45808x3_q9416hbt_h264_1244K.mp4/chunklist.m3u8
+Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/6/z/x6z92k6m_xtfe3ker_h264_1244K.mp4/chunklist.m3u8
+Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8
+Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8
+Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8
+Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8
+Lesson-4,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/e/i/yeis9395_e2136360_h264_1244K.mp4/chunklist.m3u8
+Lesson-5,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/k/b/tkbuf7hh_o960pq12_h264_1244K.mp4/chunklist.m3u8
+Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/u/2/g/u2gcbddh_sq8c23wx_h264_1244K.mp4/chunklist.m3u8
+Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/d/n/zdnt5l6w_shb508qx_h264_1244K.mp4/chunklist.m3u8
+Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/f/t/hft27dl0_s5irt179_h264_1244K.mp4/chunklist.m3u8
+Lesson-9,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/t/a/ftash969_p5sc4wa1_h264_1244K.mp4/chunklist.m3u8
+Lesson-10,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/n/0/zn0c684m_jd61882z_h264_1244K.mp4/chunklist.m3u8
+Lesson-11,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/q/t/kqtwh1ku_c1cm9pq1_h264_1244K.mp4/chunklist.m3u8
+Lesson-12,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/n/5/2/n52k8c2j_v38z0azi_h264_1244K.mp4/chunklist.m3u8
+Lesson-13,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/n/9/1/n9158556_k06wrh17_h264_1244K.mp4/chunklist.m3u8
+Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/0/d/g0dfs57b_r2445j48_h264_1244K.mp4/chunklist.m3u8
+Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/l/8/gl876c48_sn0hvr34_h264_1244K.mp4/chunklist.m3u8
+Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/1/0/f10iu9lx_dsu682sj_h264_1244K.mp4/chunklist.m3u8
+Lesson-4,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/h/x/k/hxkfxi6w_v8104j6y_h264_1244K.mp4/chunklist.m3u8
+Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/0/l/j0l45b4g_sbddke5d_h264_1244K.mp4/chunklist.m3u8
+Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/z/m/2/zm24q6ml_jhzhd73i_h264_1244K.mp4/chunklist.m3u8
+Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/w/x4w7tp8v_a1wp47tf_h264_1244K.mp4/chunklist.m3u8
+Lesson-9,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/w/f/9/wf93fvt8_jx4kzmty_h264_1244K.mp4/chunklist.m3u8
+Lesson-10,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/8/k/f8k0q9f7_z5v59290_h264_1244K.mp4/chunklist.m3u8
+Lesson-11,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/n/j/2/nj2bg58t_pso9l708_h264_1244K.mp4/chunklist.m3u8
+Lesson-12,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/p/f/kpfiotb0_f48a6kl3_h264_1244K.mp4/chunklist.m3u8
+Lesson-13,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/2/k/o2k1w071_j1wue655_h264_1244K.mp4/chunklist.m3u8
+Lesson-14,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/y/9/oy950rm6_e3986xnq_h264_1244K.mp4/chunklist.m3u8
+Lesson-15,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/v/3/t/v3t97d6m_wp17bur1_h264_1244K.mp4/chunklist.m3u8
+Lesson-16,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/v/v/b/vvbt343s_ww54uz1j_h264_1244K.mp4/chunklist.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新马 Ⅰ 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+泰国lNBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+购物频道,http://101.71.255.229:6610/zjhs/2/10122/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+越南ktv,http://210.245.20.94/hls/ktv1.m3u8
+越南PTP hd,http://113.161.4.48:8080/phuyen/tv.m3u8
+越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+阳光卫视,http://stream.chinasuntv.com/680k/mid_video_index.m3u8
+ufc2,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+UfcFightPass,http://a3569457204-s22674.cdn.ngenix.net/hls/UFC/index_0.m3u8
+REUN,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
+Sky Folk TV,http://eu.live.skyfolk.mk/live.m3u8
+THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+TV 5,http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+TV5 Monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+TV7+ (Ð¥Ð¼ÐµÐ»ÑŒÐ½),http://tv7plus.com/hls/tv7_site.m3u8
+有线新闻_(外网),http://livetv.dnsfor.me/channel.5.m3u8
+3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+5HD,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+A3 Bikini Network,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+Abu Dhabi Al Oula,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+Abu Dhabi Drama,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+Al Kass Sports 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+Al Kass Sports 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+Al Kass Sports 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+Al Kass Sports 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+Al Saudiya,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+ALTV4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+AXN HD,https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+Bahrain Sport 1,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+Bahrain Sport 2,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+Battery Pop,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+BBC Cbeebies,http://51.52.156.22:8888/http/003
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+beIN Sport News,https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
+Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+BT SPORT 1 HD,https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+Captital OTB Betting,https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CITV,http://51.52.156.22:8888/http/001
+CMC (USA),https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+CombatGo,https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+COMPANY TV HD Music,http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+DBM,https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+djing,https://www.djing.com/tv/underground.m3u8
+du bai sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+du bai sports 2 hd,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+du bai sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+Dubai Racing,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+ESPN 2,https://gma2.blab.email/espn2.m3u8
+ESPN ACCN,https://gma2.blab.email/acc.m3u8
+ESPN FS2,https://gma2.blab.email/fs2.m3u8
+ESPN News,https://gma2.blab.email/espnews.m3u8
+ETBSTR1,https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+Eurosport 4K,http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+eurosport1,http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+eurosport2,http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+FoxMovies,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+FoxMovies_TH,https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+FoxThai_TH,https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+Francophonie,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+GOODTV1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+GOODTV2,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+Gospel Truth TV (USA) Music,https://bstna.tulix.tv/live/bs_2m/index.m3u8
+Grand Lille TV,http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+Hipódromo de las Américas,http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+ITV2,http://51.52.156.22:8888/http/005
+ITV3,http://51.52.156.22:8888/http/006
+ITV4,http://51.52.156.22:8888/http/007
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+KBS World,http://125.227.210.37:8935/VideoInput/play.ts
+KIX,http://45.126.83.51/uq2663/h/h07/01.m3u8
+KTO,https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+LCI,https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+LOVE NATURE 4K UHD,http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+m2otv,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+MLB Network,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+Music,https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+MyComedy,http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
+Paramount Network,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+PremierHD1,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+PremierHD2,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+PremierHD3,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+PremierHD4,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+PremierHD5,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+RT Français,http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+ru sport tv,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+SARADEE99,http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+Sky 1 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+Sky 2 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+skyfolk Music,http://www.skyfolk.mk/live.m3u8
+Stadium Network,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+StreamToCTV,http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+TF1,https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+TF1 Séries Films,https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+TFX,https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+Throughbred Central,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+TMA Caraïbes,http://hls.tmacaraibes.com/live/index.m3u8
+TMC,https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+TRUE SPORT 5,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+TRUE SPORT 6,https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+TRUE SPORT 7,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+True Sport HD1,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+TRUEMUSI,https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+TV7 Colmar,http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+tvo KIDS,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+v2beat,https://abr.de1se01.v2beat.live/playlist.m3u8
+Vià Occitanie,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+VIVA Music,https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+workpoint,https://cdn6.goprimetime.info//feed//chworkpoint//index.m3u8
+YTN,http://125.227.210.37:8932/VideoInput/play.ts
+Z Living,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+
+INDIA,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+AajTak HD,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+ACV,https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+ACV News,https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+ACV Utsav,https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+ACV Utsav Plus,https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+Akaal TV,http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+Amrita TV,http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+Anjan,https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+Ashrafi Channel,http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+Asianet News,http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+Assam Talks,http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+AVT KHYBER,https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+Ayush TV,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+B4U Kadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+Boogle Bollywood,http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+Channel-S Live TV,https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+Channel T1,http://128.199.212.160/channelt1/1080/index.m3u8
+Channel Win,http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+Channel Y,http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+CNBC Awaaz,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+CNN NEWS,https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+DD Malayalam,http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+DD National,http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+Desi Channel,http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+Desi Plus,http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+DW NEWS HD,https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+Eawaz TV (CA),https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+Eetlive,https://live.streamjo.com/eetlive/eettv.m3u8
+ET Now,http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+Eye 95 America (US),http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+FastWay,http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+Flowers TV,http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+Gaunda Punjab TV,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+Global Punjab,https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+Gurbani Healing,http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+Hiru TV,http://cdncities.com/8012/8012/playlist.m3u8
+Hulchul TV,http://cdn12.henico.net:8080/live/jbani/index.m3u8
+India News,https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
+India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+Jaihind TV,http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+Janta TV,http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+Jeevan TV,http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+Jonack TV,http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+Kairali News,http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+Kairali TV,http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+Kairali We,http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+Kalaignar,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+Kalinga TV,https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Kappa TV,http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+Kasthuri TV,http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+Kaumudy TV,http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+Khyber News TV,https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+Lok Sabha TV,https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+Mangalam TV,http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+Manorama News,http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+Mastiii,http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+Mathrubhumi News,http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+Mazhavil Manorama HD,http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+Mirror Now,https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+MK Six,http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+MK Tunes,http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+MK TV,http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+Nandighosha Tv,https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Naxtra News,http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+NDTV 24x7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+News18 Hindi,https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
+News18 Lokmat,https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+OTV,https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+Peace TV Bangla,https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+Pramaya News7,https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+Prive Tv HD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+Public Music,http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+Puthuyugam TV,http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+R Plus News,https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+Reporter TV,http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+Rosebowl,https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+RSTV RajyaSabha,http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+Santhora Short Flim,http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+Sardari TV,http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+Shemaroo Bollywood Premier,https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+Shubhsandesh,http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+Steelbird Music,http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+Tamil Vision,http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+TV9 Telugu,http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+Twenty Four News,http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+
+All Sports,http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+ALL Sports,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+Arryadia,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+Arryadia,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+ATG,https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+Bek Sports East,https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+Bek Sports West,https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+CCTV中国中央电视台-5+ 体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+Cycle World,https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+Edge Sports,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+Esport Club,https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+Fight Sports,http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+Fight Sports,http://210.210.155.35/uq2663/h/h05/index.m3u8
+FOX Sport HD 1,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+GUJ_CNBC Bajar GUJRATI HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/232
+Guj_Colors Gujarati (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/408
+Guj_DD_Girnar HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/233
+Guj_GS_TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/234
+GUJ_India News Gujrat(lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/245
+GUJ_KALYAN TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/241
+GUJ_Mantavya News Gujrat,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/247
+GUJ_SANSKAR TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/228
+GuJ_Zee 24 Kalak HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/227
+Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+IN_OM Shanti TV (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1010
+IND_ Discovery Science Hindi (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
+IND_& Flix HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+IND_& Pictures HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
+IND_& privé HD(eng),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+IND_& TV (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
+IND_& TV FHD (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
+IND_& Xplor HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
+IND_1st India (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/25
+IND_9X Jalwa HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
+IND_9XM (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
+IND_Aaj Tak HD (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/11
+IND_Aastha Bhajan HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/609
+IND_ABAYE_DHAHDAK (lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/933
+IND_ABP_News_India FHD (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/9
+IND_Animal_Planet_Hindi_HD (4K+),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
+IND_Arihant TV HD (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/643
+IND_Awakening HD (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/891
+IND_B4u  Alfam HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
+IND_B4U Movies (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
+IND_B4U Movies (uk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
+IND_B4U Music HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
+IND_B4u-kadak HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/13
+IND_Bhagti Sagar (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/365
+IND_CNBC Awaaz (News) HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/15
+IND_CNBC_Tv_18 (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/53
+IND_COLOR CINEPLEX HD (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
+IND_Colors FHD (IN) -VIP (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
+IND_Colors infinity India HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
+IND_COLORS Rishtey (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
+IND_Colors SD  (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
+IND_DD India HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/21
+IND_DD KASHIR HD(lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1037
+IND_DD Kisan,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/20
+IND_DD National HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/75
+IND_DD News (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/18
+IND_DD Uttar Pradesh HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/17
+IND_Discovery_Turbo(JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
+IND_E24 HD(lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/339
+IND_ET NOW (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/255
+IND_Hare Krsna (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1130
+IND_Hungama_POP_Pataka_HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1159
+IND_ILOVE (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/78
+IND_India News Haryana (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/30
+IND_India News Punjabi,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/650
+IND_India Today (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/26
+IND_Joo Music HD (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1156
+IND_JUS_HINDI HD (Jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1161
+IND_Lok Sabha *News*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/216
+IND_Maha Movies,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/246
+IND_ManoranjanMovies,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/340
+IND_Masti HD (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/248
+IND_Mirror Now (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/623
+IND_MTV_Beats HD (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/861
+IND_MUSIC INDIA (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/57
+IND_NAT GEO WILD HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
+IND_NDTV Profit (news),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/36
+IND_Oscar Movies HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/627
+IND_Peace Of Mind TV (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/349
+IND_Rajya Sabha TV(News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1016
+IND_Republic Bharat (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/42
+IND_Republic TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/43
+IND_Sahara Filmy(lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
+IND_Sanskar TV (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/337
+ind_Satsang TV (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/348
+IND_Show Box HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/4
+IND_Sony BBC Earth Hindi FHD (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
+IND_Sony Entertainment  HD (IN),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
+IND_SONY Entertainment sd (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
+IND_Sony Max 2 (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
+IND_Sony Max HD (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
+IND_Sony Pal HD (Jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
+IND_Sony Saab FHD (IN) -VIP,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
+IND_Sony SAB (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
+IND_SONY Waha HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1102
+IND_Sony_Pix_HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+IND_Sony_SIX_HD(sl),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+IND_Sony_Ten_1_HD (VIP),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
+IND_Sony_Ten_3 HD (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+IND_Star Bharat (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
+IND_Star Bharat HD (4K),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
+IND_Star Gold FHD (IN)  Local,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
+IND_Star Gold SD  (uk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
+IND_STAR GOLD SELECT HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+IND_Star Sports 2 HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+IND_Star Sports 3 HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+IND_Suraya_cinema HD(chahcha),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/453
+IND_TEZ News (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/27
+IND_THE Q HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1133
+IND_THE Q HD TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/946
+IND_TLC_Hindi HD (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/58
+IND_TV9 Bharatvarsh (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1067
+IND_UTSAV Gold FHD (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
+IND_UTV HD (Movies),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
+IND_Vedant TV (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/454
+IND_Vedic HD (Spirtual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/644
+IND_Willow HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
+IND_Wion TV(News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/64
+IND_Wow Cinema HD(lk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
+IND_Zee Action HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
+IND_Zee Anmol Cinema HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
+IND_Zee Anmol HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
+IND_ZEE Bollywood HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
+IND_Zee Business (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
+IND_Zee Cafe HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
+IND_ZEE CINEMA (USA),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
+IND_Zee Cinema HD (UK-TIME),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
+IND_ZEE Cinema SD (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
+IND_ZEE Classic HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
+IND_Zee Hindustan,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
+IND_ZEE living usa,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/87
+IND_ZEE Marathi (usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/277
+IND_Zee MP (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/76
+IND_Zee News (News),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
+IND_Zee Rajasthan HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
+IND_Zee Theatre HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/86
+IND_Zee TV (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/69
+IND_ZEE TV APAC,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/71
+IND_ZEE TV HD (Canada),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/278
+IND_Zee TV HD (IND)/VIP,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/68
+IND_ZEE TV HD (USA),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/67
+IND_zee5 romance (music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
+IND_Zing (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
+ind_Zing HD (Usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
+Marathi _Zee Talkies HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/546
+Marathi_9x Jhakaas  HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/259
+Marathi_ABP Majha,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/260
+Marathi_BBC Marthi-(jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/258
+Marathi_Colors_Marathi_FHD (VIP)-Jio,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/594
+Marathi_Fakt marathi,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/262
+Marathi_SAAM Marathi HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/267
+Marathi_Sony Marathi HD (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/257
+Marathi_sugran-tv HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1023
+Marathi_Zee  24 Taas,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/271
+Marathi_Zee Marathi HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/270
+Marathi_Zee Talkies HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/269
+Marathi_Zee Yuva.HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/268
+New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+PB_5AAB TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/196
+PB_5aabmusic,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/171
+PB_7X Music HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/182
+PB_9X Tashan HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1034
+PB_ABP Sanjha HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/161
+PB_Akaal Channel (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/200
+PB_Alph etc Punjabi(usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/133
+PB_AONE Punjabi HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/186
+PB_apnapunjab TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/144
+PB_Boogle Bollywood,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/251
+PB_Brit Asia HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/206
+PB_Chanenl Y,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/207
+PB_Channel Punjab HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/151
+PB_CHARDIKLA TIME TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/179
+PB_CINE VOICE HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/203
+PB_DD Punjabi,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/169
+PB_DESI CHANNEL HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/174
+PB_Dil Apna Punjabi,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/344
+PB_Ek Onkar HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/147
+PB_FASTWAY NEWS,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/183
+PB_Fastway TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/210
+PB_Garv Gurban HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/452
+PB_Garv Plunajbi HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/143
+PB_GURBANI HEALING,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/202
+PB_GURBANI TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1092
+PB_Hamdard Laugther HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/363
+PB_HULCHUL TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/193
+PB_JHANJAR MUSIC HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/191
+PB_jigsa tv HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/850
+PB_JUS_ONE_HD (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1162
+PB_JUS_PUNJABI_HD (JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1163
+PB_Khalistan TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/156
+PB_Khalsa TV HD (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/716
+PB_living india news HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/489
+PB_Mhone music HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/154
+PB_mhone-news,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/155
+PB_Namdhari TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/139
+PB_PARDES TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/170
+PB_Prime Asia HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/132
+PB_PRIME CANADA TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/181
+PB_PTC CHAKDE,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/198
+PB_PTC MUSIC HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/188
+PB_PTC NEWS,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/197
+PB_PTC SIMRAN HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/187
+PB_PTC_Punjabi (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/381
+PB_PTC_Punjabi IND,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/167
+PB_PTC_Punjabi_Gold HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/190
+PB_Ptunes Hd *Music*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/360
+PB_PTV Pardesi,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/205
+PB_Punjabi Junction HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/450
+PB_Punjabi Star Canada,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/361
+PB_PUNJABI ZINDABAAD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/209
+PB_Ratwara Sahib,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/447
+PB_Raunak Punjab Dee,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/148
+PB_SADA TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/185
+PB_Safar TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/150
+PB_saint_tv,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/362
+PB_Sangat Tv (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/624
+PB_SARDARI TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/178
+PB_Sikh Channel (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/213
+PB_Sikhi Lehar TV(MY),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1021
+PB_Sikhi TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/176
+PB_Sounds of ZEE5 - Punjabi Beats,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1090
+PB_Steelbird Music HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/696
+PB_TANGY PUNJABI TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/192
+PB_TV PUNJAB HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1129
+PB_Vision Punjab Gurbani,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/142
+PB_Vision Punjab Music,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/140
+PB_Vision Punjab TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/141
+PB_World Punjabi HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1137
+PB_Zee Punjab HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/456
+PB_Zee Punjabi News,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/138
+PK_8xm HD (mj),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/654
+PK_92 News FHD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/666
+PK_ARY DIGITAL,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/670
+PK_Ary News HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1089
+PK_Ary World,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/669
+PK_ARY ZINDAGI HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/629
+PK_BOL News FHD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/655
+PK_CAPITAL TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/674
+PK_City 41 HD (mj),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/682
+PK_City 42 HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/664
+PK_EXPRESS ENTERTAINMENT,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/767
+PK_Express News HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/667
+PK_GEO ENTERTAINMENT HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/659
+PK_GEO KAHANI,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/660
+PK_Geo Super(Sport),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/661
+PK_Hum Europe (uk),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/653
+PK_Hum Masala HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/673
+PK_HUM NEWS FHD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/665
+PK_Kay2 (multi-lingual),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/680
+PK_Lahore News HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/668
+PK_Metro 1 News HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/677
+PK_News 24 HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/662
+PK_PTV HOME HD (Local),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/807
+PK_PTV NEWS HD *local*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/806
+PK_PTV World HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/805
+PK_qaim TV Muslim,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/329
+PK_SAMAA NEWS UK,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1160
+PK_Samma News HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/658
+PK_SUCH News TV HD (mj),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/663
+PK_Urdu 1 HD (MJ),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/768
+PK_VENUS (UK),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/330
+PK_Waseeb TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/332
+PK_Z9TV Digital Canda HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/884
+Rai Sport,https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+Red Bull TV,https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Red Bull TV,https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+Red Bull TV,https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+Simiptv_Bollywood Classics HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/41
+Simiptv_Gaane Sune Ansune (Music),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/40
+Simiptv_Japji Sahib Katha (SSDHUNDA),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1020
+Sportskool,https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+Tamil_ polimer tv HD (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1124
+Tamil_ Puthuyugam TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/353
+Tamil_ Zee Tamil HD (Usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
+Tamil_AASTHA Tamil HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/647
+Tamil_Angel Tv HD (Europe),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/372
+Tamil_Angel Tv HD (IN),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/371
+Tamil_Colors Tamil HD (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/412
+Tamil_DD Podhigai,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/354
+Tamil_ETV Bharat Keralam,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/386
+Tamil_ibc canada HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/401
+Tamil_IBC canada HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/356
+Tamil_Ibc Music HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/402
+Tamil_IBC Tamil HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/357
+Tamil_Jaya TV,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/409
+Tamil_Jaya_Max HD(JIO),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1148
+Tamil_Jaya_Plus HD(jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1147
+Tamil_KTV  FHD (usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/610
+Tamil_KTV FHD (IND),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/611
+Tamil_Makkal TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/351
+Tamil_News 18 Tamil Nadu HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/378
+Tamil_Raj Digital Plush (jio),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1126
+Tamil_Raj TV (Airtal),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1125
+Tamil_Sun Life HD (IND)*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/738
+Tamil_Sun Life HD (usa)*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/591
+Tamil_Sun Music HD VIP (usa),http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
+Tamil_Sun TV HD (UK)*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/631
+Tamil_Sun TV HD (usa)*,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
+Tamil_Tamilvision HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/380
+Tamil_Tune6 HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/398
+Tamil_Vendhar TV HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1017
+Tamil_Zee Thirai HD,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
+Telecaribe Deportes,https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+Test Derect,http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1005
+Türkmenistan Sport,http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+Türkmenistan Sport,https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+Türkmenistan Sport,https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+Türkmenistan Sport,http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+Türkmenistan Sport,http://217.174.225.146/hls/ch004_720/index.m3u8
+Viasat Sport East,https://persik.tv/stream/3602/287583/10249.m3u8
+World Of Free Sports TV,https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
